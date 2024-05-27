@@ -1,0 +1,7 @@
+moverse Teclas
+izquierda A o flecha Izquierda
+arriba W o flecha  arriba
+abajo S o felcha abajo
+derecha D o felcha Derecha
+disparar click iquierdo 
+granada tecla E
